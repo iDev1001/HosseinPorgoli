@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320C20E&center=true&size=24&lines=The+Boy+Who+Live+Among+the+Codes;Web+Back-End+Developer;Software+Engineer;Curious)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320C20E&size=24&center=true&lines=The+Boy+Who+Live+Among+the+Codes;Web+Back-End+Developer;Software+Engineer;Curious)](https://git.io/typing-svg)
 </p>
 
 
